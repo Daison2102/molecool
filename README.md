@@ -5,7 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/main)
 
 
-A Package Python to visualize molecules given their Cartesian coordinates
+A Package Python to visualize molecules given their Cartesian coordinates. This was created for the Python team
 
 ### Copyright
 
